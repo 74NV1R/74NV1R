@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @74NV1R
-- 👀 I’m interested in programming
+- 👀 I'm a programmer
+- React JS developer
 - 🌱 Problem solving and machine learning enthusiast
 
 <!---
