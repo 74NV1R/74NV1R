@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @74NV1R
 - 👀 I'm a programmer
-- React JS developer
-- 🌱 Problem solving and machine learning enthusiast
+- AI developer
+- 🌱 Problem-solving and machine learning enthusiast
 
 <!---
 74NV1R/74NV1R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
